@@ -38,14 +38,3 @@ Pydantic Documentation - Used for data validation and management in Python.
 Docker Official Documentation - For practicing Docker concepts and commands.
 Gitleaks GitHub Repository - The main tool utilized for scanning secrets.
 Python OS Module Documentation - Used for path and directory handling.
-yaml
-Copy code
-
----
-
-### How to Use:
-1. Save this content into a `README.md` file.
-2. Place the file in the root of your repository.
-3. When you push your repository to GitHub, the `README.md` file will automatically render as the repository's homepage.
-
-Let me know if you need further assistance!
