@@ -38,3 +38,5 @@ Pydantic Documentation - Used for data validation and management in Python.
 Docker Official Documentation - For practicing Docker concepts and commands.
 Gitleaks GitHub Repository - The main tool utilized for scanning secrets.
 Python OS Module Documentation - Used for path and directory handling.
+vbnet
+Copy code
